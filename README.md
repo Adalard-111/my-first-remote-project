@@ -1,2 +1,3 @@
-#My first fyle
-Etot fyle pomozhet mne izuchit' Git
+ВЕРСИЯ FEATURE: Это улучшенный контент README
+ВЕРСИЯ MAIN: Это основной контент README
+КОМБИНИРОВАННАЯ ВЕРСИЯ: Это основной контент README с улучшениями из feature
